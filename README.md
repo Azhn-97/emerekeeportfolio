@@ -173,14 +173,14 @@
     <h2 class="section-title">Кәсіби жетістіктер</h2>
         <p >7 жылдық тәжірибе уақыт аралығында Оқу ағарту министрлігі,Ішкі істер министрлігі,Облыстық,аудандық білім басқарламарының алғыс хаттарымен марапатталдым.</p>
     <div class="gallery" style="margin-top:12px">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\oblakim.jpeg" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\bilimbask.jpeg" alt="ach2" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\iim.jpeg" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\АЛГЫС ЖАНА ЖЫЛ МЕРЕКЕ 001.jpg" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\Құрмет грамота 2024.jpeg" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\kurmet.jpg" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\АЛГЫС САНИРАДАН 001.jpg" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\dip.jpg" onclick="openLight(this.src)">
+      <img src="oblakim.jpeg" onclick="openLight(this.src)">
+      <img src="bilimbask.jpeg" alt="ach2" onclick="openLight(this.src)">
+      <img src="iim.jpeg" onclick="openLight(this.src)">
+      <img src="АЛГЫС ЖАНА ЖЫЛ МЕРЕКЕ 001.jpg" onclick="openLight(this.src)">
+      <img src="Құрмет грамота 2024.jpeg" onclick="openLight(this.src)">
+      <img src="kurmet.jpg" onclick="openLight(this.src)">
+      <img src="АЛГЫС САНИРАДАН 001.jpg" onclick="openLight(this.src)">
+      <img src="dip.jpg" onclick="openLight(this.src)">
     </div>
     <div class="achievements" style="margin-top:12px">
       <div class="ach-card">
@@ -188,15 +188,15 @@
         <h2 class="section-title">Оқушы жетістіктері</h2>
         <p >Білім алушылар Республикалық,облыстық,өңірлік деңгейдегі конкурс олимпиада жеңімпаздары атанды.</p>
     <div class="gallery" style="margin-top:12px">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\Hackathon 2022.jpg" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\ed.jpg" alt="ach2" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\34.jpeg" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\23.jpg" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\24.jpg"onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\25.jpg" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\27.jpeg" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\28.jpg"onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Грамота\29.jpeg" onclick="openLight(this.src)">
+      <img src="Hackathon 2022.jpg" onclick="openLight(this.src)">
+      <img src="ed.jpg" alt="ach2" onclick="openLight(this.src)">
+      <img src="34.jpeg" onclick="openLight(this.src)">
+      <img src="23.jpg" onclick="openLight(this.src)">
+      <img src="24.jpg"onclick="openLight(this.src)">
+      <img src="25.jpg" onclick="openLight(this.src)">
+      <img src="27.jpeg" onclick="openLight(this.src)">
+      <img src="28.jpg"onclick="openLight(this.src)">
+      <img src="29.jpeg" onclick="openLight(this.src)">
     </div>
       </div>
     </div>
@@ -206,24 +206,24 @@
   <section id="gallery" class="card">
     <h2 class="section-title">Галерея</h2>
     <div class="gallery">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\40.jpg" alt="g1" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\41.jpg" alt="g2" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\42.jpg" alt="g3" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\43.jpg"alt="g4" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\44.jpg" alt="g5" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\45.jpg" alt="g6" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\46.jpg" alt="g6" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\47.jpg" alt="g6" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\48.jpg" alt="g6" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\49.jpg" alt="g6" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\50.jpg" alt="g6" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\51.jpg" alt="g6" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\52.jpg" alt="g6" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\53.jpg" alt="g6" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\54.jpg" alt="g6" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\55.jpg" alt="g6" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\56.jpg" alt="g6" onclick="openLight(this.src)">
-      <img src="C:\Users\admin\Desktop\МЕРЕКЕ\Фото\57.jpg" alt="g6" onclick="openLight(this.src)">
+      <img src="40.jpg" alt="g1" onclick="openLight(this.src)">
+      <img src="41.jpg" alt="g2" onclick="openLight(this.src)">
+      <img src="42.jpg" alt="g3" onclick="openLight(this.src)">
+      <img src="43.jpg"alt="g4" onclick="openLight(this.src)">
+      <img src="44.jpg" alt="g5" onclick="openLight(this.src)">
+      <img src="45.jpg" alt="g6" onclick="openLight(this.src)">
+      <img src="46.jpg" alt="g6" onclick="openLight(this.src)">
+      <img src="47.jpg" alt="g6" onclick="openLight(this.src)">
+      <img src="48.jpg" alt="g6" onclick="openLight(this.src)">
+      <img src="49.jpg" alt="g6" onclick="openLight(this.src)">
+      <img src="50.jpg" alt="g6" onclick="openLight(this.src)">
+      <img src="51.jpg" alt="g6" onclick="openLight(this.src)">
+      <img src="52.jpg" alt="g6" onclick="openLight(this.src)">
+      <img src="53.jpg" alt="g6" onclick="openLight(this.src)">
+      <img src="54.jpg" alt="g6" onclick="openLight(this.src)">
+      <img src="55.jpg" alt="g6" onclick="openLight(this.src)">
+      <img src="56.jpg" alt="g6" onclick="openLight(this.src)">
+      <img src="57.jpg" alt="g6" onclick="openLight(this.src)">
     </div>
   </section>
 
